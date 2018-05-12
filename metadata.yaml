@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31810
     wikipedia: http://en.wikipedia.org/wiki/Robert_Luce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26128#The-Writer-Volume-VI-April-1892.A-Monthly-Magazine-to-Interest-and-Help-All-Literary-Workers
 gutenberg_bookshelf: The Writer
 gutenberg_issued: '2008-07-25'
 gutenberg_type: Text
