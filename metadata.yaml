@@ -1,0 +1,39 @@
+_repo: The-Writer-Volume-VI-April-1892.A-Monthly-Magazine-to-Interest-and-Help-All-Literary-Workers_26128
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Hills, William Henry
+    birthdate: 1859
+    gutenberg_agent_id: '31809'
+    url: http://www.gutenberg.org/2009/agents/31809
+  - agent_name: Luce, Robert
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '31810'
+    url: http://www.gutenberg.org/2009/agents/31810
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Luce
+description: ''
+gutenberg_bookshelf: The Writer
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Literature -- Periodicals'
+title: 'The Writer, Volume VI, April 1892.
+
+  A Monthly Magazine to Interest and Help All Literary Workers'
+url: http://www.gutenberg.org/ebooks/26128
